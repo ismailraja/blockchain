@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/C001.PNG",
+    "age": 3,
+    "breed": "Audi",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/C002.PNG",
+    "age": 3,
+    "breed": "Audi",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/C003.PNG",
+    "age": 2,
+    "breed": "Benz",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/C004.PNG",
+    "age": 2,
+    "breed": "WW",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/C001.PNG",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/C002.PNG",
+    "age": 3,
+    "breed": "Audi",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/C003.PNG",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/C005.PNG",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/C001.PNG",
+    "age": 2,
+    "breed": "Audi",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/C002.PNG",
+    "age": 3,
+    "breed": "Boxer",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/C003.PNG",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/C005.PNG",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/C001.PNG",
+    "age": 3,
+    "breed": "Audi",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/C002.PNG",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/C003.PNG",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/C005.PNG",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Dawn, Wisconsin"
+  }
+]
